@@ -32,7 +32,7 @@ Portfolio - This project covers the portfolio of Balaji Manoharan which was crea
 https://github.com/baredh821/Homework2
 
 # Github Pages
-https://baredh821.github.io/Homework2/
+https://rekhaleelaraman.github.io/Portfolio/
 
 
 
