@@ -29,10 +29,10 @@ Portfolio - This project covers the portfolio of Balaji Manoharan which was crea
 <img src = "assets/images/Contact.jpg">
 
 # Repo Details 
-https://github.com/baredh821/Homework2
+https://github.com/RekhaLeelaraman/Portfolio
 
 # Github Pages
-https://baredh821.github.io/Homework2/
+https://github.com/RekhaLeelaraman/Portfolio
 
 
 
