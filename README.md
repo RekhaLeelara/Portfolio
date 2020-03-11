@@ -1,4 +1,4 @@
-# Homework2
+# Portfolio
 
 # Project Title
 Portfolio - This project covers the portfolio of Balaji Manoharan which was created using Bootstrap. It contains three different sections. It also has responsive design for a better user experience. 
