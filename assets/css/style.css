@@ -2,10 +2,10 @@
 {
     background-image: url('/assets/images/beige-tiles.png');
 }
-img
+/*img
 {
     height: 250px;
-}
+}*/
 .container
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -52,7 +52,7 @@ h1
     word-spacing: 20px;
 }
 
- #profimg
+ #prof
 {
     width: 250px;
     height: 280px;
